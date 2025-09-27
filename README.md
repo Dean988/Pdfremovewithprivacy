@@ -73,7 +73,3 @@ If you wish to build the executable yourself (e.g., for other operating systems 
 ## Contributing
 
 Feel free to fork the repository, make improvements, and submit pull requests.
-
-## License
-
-[You might want to add a license here, e.g., MIT, Apache 2.0, etc.] 
